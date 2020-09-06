@@ -1,0 +1,266 @@
+PAIS,ID_PROVINCIA,PROVINCIA,SECTOR,2020T2,2019T4,GAP Sectorial 2019T4-2020T2
+España,1,Araba/Álava,Agricultura,3.6,2.3,-1.3
+España,2,Albacete,Agricultura,14,12.5,-1.5
+España,3,Alicante/Alacant,Agricultura,14.3,27.4,13.1
+España,4,Almería,Agricultura,55.4,74.6,19.2
+España,5,Avila,Agricultura,5.5,5.8,0.3
+España,6,Badajoz,Agricultura,31.1,28.5,-2.6
+España,7,"Balears, Illes",Agricultura,4.7,4.2,-0.5
+España,8,Barcelona,Agricultura,8.4,7.1,-1.3
+España,9,Burgos,Agricultura,7.8,8.5,0.7
+España,10,Cáceres,Agricultura,12.8,12.9,0.1
+España,11,Cádiz,Agricultura,13.6,14.9,1.3
+España,12,Castellón/Castelló,Agricultura,8.5,11.9,3.4
+España,13,Ciudad Real,Agricultura,14.4,16.5,2.1
+España,14,Córdoba,Agricultura,29.3,29.4,0.1
+España,15,"Coruña, A",Agricultura,22.4,23.1,0.7
+España,16,Cuenca,Agricultura,8.8,7.1,-1.7
+España,17,Girona,Agricultura,6.5,9.1,2.6
+España,18,Granada,Agricultura,31.3,32.1,0.8
+España,19,Guadalajara,Agricultura,2.3,0.4,-1.9
+España,20,Gipuzkoa,Agricultura,2.6,3.6,1
+España,21,Huelva,Agricultura,42.1,29.5,-12.6
+España,22,Huesca,Agricultura,13.8,14.4,0.6
+España,23,Jaén,Agricultura,20.8,31.5,10.7
+España,24,León,Agricultura,7.3,9,1.7
+España,25,Lleida,Agricultura,20.4,19.9,-0.5
+España,26,"Rioja, La",Agricultura,8.8,7.7,-1.1
+España,27,Lugo,Agricultura,19.1,18.7,-0.4
+España,28,Madrid,Agricultura,2,5.6,3.6
+España,29,Málaga,Agricultura,20.8,19.9,-0.9
+España,30,Murcia,Agricultura,86.6,69.1,-17.5
+España,31,Navarra,Agricultura,9.6,9.2,-0.4
+España,32,Ourense,Agricultura,5,4.8,-0.2
+España,33,Asturias,Agricultura,10.5,12,1.5
+España,34,Palencia,Agricultura,3.8,5.3,1.5
+España,35,"Palmas, Las",Agricultura,13.5,11.3,-2.2
+España,36,Pontevedra,Agricultura,19.8,20,0.2
+España,37,Salamanca,Agricultura,6.9,8.5,1.6
+España,38,Santa Cruz de Tenerife,Agricultura,13.9,17,3.1
+España,39,Cantabria,Agricultura,6.6,6.8,0.2
+España,40,Segovia,Agricultura,6.8,6.8,0
+España,41,Sevilla,Agricultura,38.4,42.3,3.9
+España,42,Soria,Agricultura,3.8,4.3,0.5
+España,43,Tarragona,Agricultura,12.2,13.7,1.5
+España,44,Teruel,Agricultura,4.3,4.8,0.5
+España,45,Toledo,Agricultura,13.2,12.4,-0.8
+España,46,Valencia/Valéncia,Agricultura,28,25.5,-2.5
+España,47,Valladolid,Agricultura,7.9,7.6,-0.3
+España,48,Bizkaia,Agricultura,2.2,3.1,0.9
+España,49,Zamora,Agricultura,5,5.6,0.6
+España,50,Zaragoza,Agricultura,12.9,15.7,2.8
+España,51,Ceuta,Agricultura,NA,0.1,NA
+España,52,Melilla,Agricultura,0.2,NA,NA
+España,53,Total Nacional,Agricultura,763.4,793.9,30.5
+España,1,Araba/Álava,Construcci?n,3.7,6.9,3.2
+España,2,Albacete,Construcci?n,8.9,9.2,0.3
+España,3,Alicante/Alacant,Construcci?n,44.7,48.9,4.2
+España,4,Almería,Construcci?n,15,12.2,-2.8
+España,5,Avila,Construcci?n,6.6,5.5,-1.1
+España,6,Badajoz,Construcci?n,10.9,13.3,2.4
+España,7,"Balears, Illes",Construcci?n,55.9,67.3,11.4
+España,8,Barcelona,Construcci?n,129.7,144.6,14.9
+España,9,Burgos,Construcci?n,11.1,12.7,1.6
+España,10,Cáceres,Construcci?n,11.2,10.9,-0.3
+España,11,Cádiz,Construcci?n,30.1,32.6,2.5
+España,12,Castellón/Castelló,Construcci?n,15.8,15.5,-0.3
+España,13,Ciudad Real,Construcci?n,14.6,16.6,2
+España,14,Córdoba,Construcci?n,16,13.7,-2.3
+España,15,"Coruña, A",Construcci?n,33.5,33.2,-0.3
+España,16,Cuenca,Construcci?n,6.2,6.2,0
+España,17,Girona,Construcci?n,23.1,26.3,3.2
+España,18,Granada,Construcci?n,22.4,26.1,3.7
+España,19,Guadalajara,Construcci?n,5.6,10.3,4.7
+España,20,Gipuzkoa,Construcci?n,15.3,13.8,-1.5
+España,21,Huelva,Construcci?n,7.7,12.6,4.9
+España,22,Huesca,Construcci?n,8.6,8,-0.6
+España,23,Jaén,Construcci?n,10.1,12,1.9
+España,24,León,Construcci?n,7.3,8.1,0.8
+España,25,Lleida,Construcci?n,12.8,15,2.2
+España,26,"Rioja, La",Construcci?n,7.7,8,0.3
+España,27,Lugo,Construcci?n,6.9,7.7,0.8
+España,28,Madrid,Construcci?n,180.9,196.9,16
+España,29,Málaga,Construcci?n,47.5,50.1,2.6
+España,30,Murcia,Construcci?n,37.1,42,4.9
+España,31,Navarra,Construcci?n,15,13.1,-1.9
+España,32,Ourense,Construcci?n,7.7,8,0.3
+España,33,Asturias,Construcci?n,17.7,25.3,7.6
+España,34,Palencia,Construcci?n,4.7,3.8,-0.9
+España,35,"Palmas, Las",Construcci?n,21.3,28,6.7
+España,36,Pontevedra,Construcci?n,23.7,25.5,1.8
+España,37,Salamanca,Construcci?n,5.9,8.6,2.7
+España,38,Santa Cruz de Tenerife,Construcci?n,25,21.3,-3.7
+España,39,Cantabria,Construcci?n,20.8,17.2,-3.6
+España,40,Segovia,Construcci?n,4.4,5.1,0.7
+España,41,Sevilla,Construcci?n,43.6,40.6,-3
+España,42,Soria,Construcci?n,2,2.3,0.3
+España,43,Tarragona,Construcci?n,18.7,20.1,1.4
+España,44,Teruel,Construcci?n,4.3,5.6,1.3
+España,45,Toledo,Construcci?n,20.2,28.3,8.1
+España,46,Valencia/Valéncia,Construcci?n,53.8,64,10.2
+España,47,Valladolid,Construcci?n,15.2,15.7,0.5
+España,48,Bizkaia,Construcci?n,31,30.7,-0.3
+España,49,Zamora,Construcci?n,4.1,5.8,1.7
+España,50,Zaragoza,Construcci?n,21.4,26.3,4.9
+España,51,Ceuta,Construcci?n,0.6,0.8,0.2
+España,52,Melilla,Construcci?n,1,1.5,0.5
+España,53,Total Nacional,Construcci?n,1169,1283.9,114.9
+España,1,Araba/Álava,Industria,38.1,41.5,3.4
+España,2,Albacete,Industria,22.7,27.2,4.5
+España,3,Alicante/Alacant,Industria,97.5,118.4,20.9
+España,4,Almería,Industria,17.5,17.3,-0.2
+España,5,Avila,Industria,7.6,8,0.4
+España,6,Badajoz,Industria,24.2,27.9,3.7
+España,7,"Balears, Illes",Industria,31.4,37.6,6.2
+España,8,Barcelona,Industria,438,454.1,16.1
+España,9,Burgos,Industria,40.6,39.4,-1.2
+España,10,Cáceres,Industria,16.3,15.8,-0.5
+España,11,Cádiz,Industria,48.6,44.3,-4.3
+España,12,Castellón/Castelló,Industria,54.3,57.1,2.8
+España,13,Ciudad Real,Industria,26.8,26.8,0
+España,14,Córdoba,Industria,37,38,1
+España,15,"Coruña, A",Industria,67.4,69.5,2.1
+España,16,Cuenca,Industria,10.5,13.3,2.8
+España,17,Girona,Industria,61.5,67.3,5.8
+España,18,Granada,Industria,25,28.2,3.2
+España,19,Guadalajara,Industria,14.8,17.3,2.5
+España,20,Gipuzkoa,Industria,73.9,70.8,-3.1
+España,21,Huelva,Industria,19.3,17.2,-2.1
+España,22,Huesca,Industria,15,14.5,-0.5
+España,23,Jaén,Industria,27.5,31.5,4
+España,24,León,Industria,23.3,30.4,7.1
+España,25,Lleida,Industria,23.9,25.3,1.4
+España,26,"Rioja, La",Industria,32.1,34.5,2.4
+España,27,Lugo,Industria,15.3,16.7,1.4
+España,28,Madrid,Industria,262.9,279.3,16.4
+España,29,Málaga,Industria,31.7,45.4,13.7
+España,30,Murcia,Industria,76.1,84.4,8.3
+España,31,Navarra,Industria,71.5,72.1,0.6
+España,32,Ourense,Industria,20.1,18.5,-1.6
+España,33,Asturias,Industria,55.3,50.6,-4.7
+España,34,Palencia,Industria,11.7,12.8,1.1
+España,35,"Palmas, Las",Industria,24,17.8,-6.2
+España,36,Pontevedra,Industria,80.7,78.7,-2
+España,37,Salamanca,Industria,15,16.2,1.2
+España,38,Santa Cruz de Tenerife,Industria,20,19.7,-0.3
+España,39,Cantabria,Industria,37.9,39.7,1.8
+España,40,Segovia,Industria,12,12.8,0.8
+España,41,Sevilla,Industria,77.3,77,-0.3
+España,42,Soria,Industria,8.8,9.5,0.7
+España,43,Tarragona,Industria,59,63.8,4.8
+España,44,Teruel,Industria,11.9,11.1,-0.8
+España,45,Toledo,Industria,45.9,49.5,3.6
+España,46,Valencia/Valéncia,Industria,197.2,196.3,-0.9
+España,47,Valladolid,Industria,32.3,39.5,7.2
+España,48,Bizkaia,Industria,75.1,79.1,4
+España,49,Zamora,Industria,10.2,10.6,0.4
+España,50,Zaragoza,Industria,94.3,88.3,-6
+España,51,Ceuta,Industria,0.9,0.4,-0.5
+España,52,Melilla,Industria,0.4,0.5,0.1
+España,53,Total Nacional,Industria,2642.3,2763.7,121.4
+España,1,Araba/Álava,Servicios,91.3,92.2,0.9
+España,2,Albacete,Servicios,98.6,101.8,3.2
+España,3,Alicante/Alacant,Servicios,545.1,593,47.9
+España,4,Almería,Servicios,164.7,182.9,18.2
+España,5,Avila,Servicios,40.9,44.3,3.4
+España,6,Badajoz,Servicios,164.1,168.2,4.1
+España,7,"Balears, Illes",Servicios,420.2,461,40.8
+España,8,Barcelona,Servicios,1811.1,1964,152.9
+España,9,Burgos,Servicios,82.3,95.5,13.2
+España,10,Cáceres,Servicios,100.9,103.4,2.5
+España,11,Cádiz,Servicios,321.4,328.6,7.2
+España,12,Castellón/Castelló,Servicios,154.2,158.2,4
+España,13,Ciudad Real,Servicios,121.3,127.7,6.4
+España,14,Córdoba,Servicios,184,201.8,17.8
+España,15,"Coruña, A",Servicios,327.3,350.7,23.4
+España,16,Cuenca,Servicios,49.1,54.4,5.3
+España,17,Girona,Servicios,233.6,253.5,19.9
+España,18,Granada,Servicios,220.1,255.5,35.4
+España,19,Guadalajara,Servicios,85.8,94,8.2
+España,20,Gipuzkoa,Servicios,210.3,222.7,12.4
+España,21,Huelva,Servicios,129.9,129.8,-0.1
+España,22,Huesca,Servicios,57.5,62.8,5.3
+España,23,Jaén,Servicios,129.3,143.2,13.9
+España,24,León,Servicios,122.1,133,10.9
+España,25,Lleida,Servicios,133.3,146.4,13.1
+España,26,"Rioja, La",Servicios,86.5,90.5,4
+España,27,Lugo,Servicios,88.1,92.7,4.6
+España,28,Madrid,Servicios,2516.8,2692.7,175.9
+España,29,Málaga,Servicios,502,532.5,30.5
+España,30,Murcia,Servicios,390.3,416.4,26.1
+España,31,Navarra,Servicios,175.4,193.3,17.9
+España,32,Ourense,Servicios,76.6,80.8,4.2
+España,33,Asturias,Servicios,287.8,304,16.2
+España,34,Palencia,Servicios,42.7,42.6,-0.1
+España,35,"Palmas, Las",Servicios,378,424.5,46.5
+España,36,Pontevedra,Servicios,236.6,247.1,10.5
+España,37,Salamanca,Servicios,96.4,97.6,1.2
+España,38,Santa Cruz de Tenerife,Servicios,326.5,400.7,74.2
+España,39,Cantabria,Servicios,154.9,181,26.1
+España,40,Segovia,Servicios,42.1,46.9,4.8
+España,41,Sevilla,Servicios,529.7,588.8,59.1
+España,42,Soria,Servicios,24.2,25.3,1.1
+España,43,Tarragona,Servicios,235.3,248.1,12.8
+España,44,Teruel,Servicios,34.1,37.7,3.6
+España,45,Toledo,Servicios,187.4,192.6,5.2
+España,46,Valencia/Valéncia,Servicios,732.3,790.2,57.9
+España,47,Valladolid,Servicios,158.4,168.7,10.3
+España,48,Bizkaia,Servicios,352.6,366.9,14.3
+España,49,Zamora,Servicios,40.4,42,1.6
+España,50,Zaragoza,Servicios,283.9,302,18.1
+España,51,Ceuta,Servicios,27.3,26.6,-0.7
+España,52,Melilla,Servicios,28,24.8,-3.2
+España,53,Total Nacional,Servicios,14032.5,15125.4,1092.9
+España,1,Araba/Álava,Total,136.7,142.8,6.1
+España,2,Albacete,Total,144.2,150.7,6.5
+España,3,Alicante/Alacant,Total,701.6,787.6,86
+España,4,Almería,Total,252.7,286.9,34.2
+España,5,Avila,Total,60.5,63.6,3.1
+España,6,Badajoz,Total,230.2,237.9,7.7
+España,7,"Balears, Illes",Total,512.2,570.1,57.9
+España,8,Barcelona,Total,2387.2,2569.7,182.5
+España,9,Burgos,Total,141.7,156,14.3
+España,10,Cáceres,Total,141.2,143,1.8
+España,11,Cádiz,Total,413.6,420.4,6.8
+España,12,Castellón/Castelló,Total,232.8,242.8,10
+España,13,Ciudad Real,Total,177.1,187.7,10.6
+España,14,Córdoba,Total,266.3,282.8,16.5
+España,15,"Coruña, A",Total,450.8,476.5,25.7
+España,16,Cuenca,Total,74.7,81,6.3
+España,17,Girona,Total,324.8,356.1,31.3
+España,18,Granada,Total,298.8,342,43.2
+España,19,Guadalajara,Total,108.5,122,13.5
+España,20,Gipuzkoa,Total,302.1,310.8,8.7
+España,21,Huelva,Total,199,189.1,-9.9
+España,22,Huesca,Total,94.9,99.8,4.9
+España,23,Jaén,Total,187.7,218.2,30.5
+España,24,León,Total,160,180.5,20.5
+España,25,Lleida,Total,190.3,206.5,16.2
+España,26,"Rioja, La",Total,135.1,140.6,5.5
+España,27,Lugo,Total,129.5,135.9,6.4
+España,28,Madrid,Total,2962.6,3174.5,211.9
+España,29,Málaga,Total,602,647.9,45.9
+España,30,Murcia,Total,590.1,611.9,21.8
+España,31,Navarra,Total,271.5,287.7,16.2
+España,32,Ourense,Total,109.4,112.2,2.8
+España,33,Asturias,Total,371.3,392,20.7
+España,34,Palencia,Total,62.8,64.4,1.6
+España,35,"Palmas, Las",Total,436.9,481.6,44.7
+España,36,Pontevedra,Total,360.8,371.3,10.5
+España,37,Salamanca,Total,124.2,130.8,6.6
+España,38,Santa Cruz de Tenerife,Total,385.3,458.7,73.4
+España,39,Cantabria,Total,220.2,244.7,24.5
+España,40,Segovia,Total,65.3,71.6,6.3
+España,41,Sevilla,Total,689,748.8,59.8
+España,42,Soria,Total,38.9,41.4,2.5
+España,43,Tarragona,Total,325.2,345.7,20.5
+España,44,Teruel,Total,54.7,59.2,4.5
+España,45,Toledo,Total,266.6,282.8,16.2
+España,46,Valencia/Valéncia,Total,1011.3,1075.9,64.6
+España,47,Valladolid,Total,213.8,231.6,17.8
+España,48,Bizkaia,Total,460.8,479.7,18.9
+España,49,Zamora,Total,59.8,64,4.2
+España,50,Zaragoza,Total,412.6,432.3,19.7
+España,51,Ceuta,Total,28.8,28,-0.8
+España,52,Melilla,Total,29.5,26.9,-2.6
+España,53,Total Nacional,Total,18607.2,19966.9,1359.7
